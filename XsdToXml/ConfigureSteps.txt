@@ -18,3 +18,4 @@ That creates an empty repository with no Master branch
 9.	Select Commit and Push from the drop down
 Your solution is now in GitHub
 
+THe change from the mapped solution at Git.
